@@ -1,0 +1,18 @@
+D:\RVT Launcher\RVT Launcher\bin\Debug\net6.0-windows\RVT Launcher.exe
+D:\RVT Launcher\RVT Launcher\bin\Debug\net6.0-windows\RVT Launcher.deps.json
+D:\RVT Launcher\RVT Launcher\bin\Debug\net6.0-windows\RVT Launcher.runtimeconfig.json
+D:\RVT Launcher\RVT Launcher\bin\Debug\net6.0-windows\RVT Launcher.dll
+D:\RVT Launcher\RVT Launcher\bin\Debug\net6.0-windows\RVT Launcher.pdb
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT Launcher.csproj.AssemblyReference.cache
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT_Launcher.Form1.resources
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT_Launcher.Properties.Resources.resources
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT Launcher.csproj.GenerateResource.cache
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT Launcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT Launcher.AssemblyInfoInputs.cache
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT Launcher.AssemblyInfo.cs
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT Launcher.csproj.CoreCompileInputs.cache
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT Launcher.dll
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\refint\RVT Launcher.dll
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT Launcher.pdb
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\RVT Launcher.genruntimeconfig.cache
+D:\RVT Launcher\RVT Launcher\obj\Debug\net6.0-windows\ref\RVT Launcher.dll
